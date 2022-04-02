@@ -1479,8 +1479,6 @@ def start_app():
             messagebox.showinfo("Information" , "Please Select Both File to Start!")
 
 
-
-
 root.mainloop()
 
 
